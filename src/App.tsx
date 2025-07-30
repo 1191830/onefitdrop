@@ -52,6 +52,7 @@ export default function App() {
         <meta name="twitter:title" content="Exercise of the Day - OneFitDrop" />
         <meta name="twitter:description" content="Discover the exercise of the day for your favorite muscle groups. Filter by equipment and stay in shape with varied exercises." />
         <meta name="twitter:image" content={selected?.gifUrl || "/default-exercise-image.png"} />
+        <meta name="google-site-verification" content="ot69bdyiqjhNojHSsO4hSK4_BuIJ3K2fepVseJ-MGzU" />
       </Helmet>
 
       <div className="min-h-screen bg-gray-100 text-gray-800 px-4 py-6 flex flex-col items-center">
